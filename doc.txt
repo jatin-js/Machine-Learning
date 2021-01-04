@@ -1,0 +1,4 @@
+Install anaconda
+Open terminal
+    jupyter notebook
+    
